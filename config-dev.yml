@@ -1,4 +1,4 @@
 config:
   info: 1111111
 server:
-  port: 8888
+  port: 6666
